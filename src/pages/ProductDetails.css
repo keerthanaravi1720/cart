@@ -1,0 +1,15 @@
+.imagesize1{
+    width:28vh;
+    height: 210px;
+    margin-left: 25px;
+    margin-top: 24px;
+}
+
+.card_details{
+   
+    width: 51vh;
+    height: 250px;
+    margin-left: 39px;
+    margin-top: 35px;
+    background-color: rgb(255, 255, 255);
+}
